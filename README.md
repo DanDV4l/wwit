@@ -1,2 +1,8 @@
-# wwit
-This is my own website. I'm developing it to help me with work management and to show what can I do using Flutter.
+# Ww : IT
+Sua ideia do tamanho do mundo // Your World Wide Idea.
+
+Meu projeto de site pessoal criado com a finalidade de divulgar meus serviços e projetos.
+
+//
+
+My own personal website created as objective to show my works and projects.
