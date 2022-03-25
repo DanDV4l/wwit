@@ -7,7 +7,10 @@ ATENÇÃO: Não esqueça de substituir as configurações do firebase no arquivo
 
 //
 
-My own personal website created as objective to show/manage my jobs and show what can I do using Flutter. You can preview the project progress at the following addres (temporary): https://wwitdev.000webhostapp.com
+My own personal website created as objective to show/manage my jobs and show what can I do using Flutter. You can preview the project progress at the following addres (temporary): 
+
+https://wwitdev.000webhostapp.com
+http://wwitdev.rf.gd/
 
 WARNING: Don't forget to change the firebase settings at the file web/index.html with your firebase project settings.
 
